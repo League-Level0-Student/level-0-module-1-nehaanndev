@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	String games ="Roblox is one of the most played games ever.";
 	String mAndms ="Soliders ate them during WII.";
 	String toostieRolls ="An airdrop that was supposed to be filled not with ammunition,contained actual Tootsie Rolls.";
-	String tongueBurns ="Your tongue and taste buds will heal within a week or two.";
+	String tongueBurns ="If you burn your tongue, the taste buds will heal within a week or two.";
 
 	// 2. Ask the user to enter a name. Store their answer in a variable.
 String input = JOptionPane.showInputDialog("Choose a topic from: Fiction Books,Slime,Games,M&MS,Toostie Rolls, and Tongue Burns"); 
